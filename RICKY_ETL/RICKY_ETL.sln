@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "RICKY_ETL", "RICKY_ETL\RICKY_ETL.dtproj", "{DAADAC7D-78DD-4CD7-8785-4BF5F2726023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAADAC7D-78DD-4CD7-8785-4BF5F2726023}.Development|Default.ActiveCfg = Development
+		{DAADAC7D-78DD-4CD7-8785-4BF5F2726023}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1579BC99-6511-40D5-9844-99855CDD4B90}
+	EndGlobalSection
+EndGlobal
